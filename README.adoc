@@ -1,0 +1,14 @@
+# Forest Fires Trends In Turkey
+
+## Context
+
+Sadly, every year we lost habitat for lots of animals and some forest fires catastrophically cause people died in Turkey. In this dataset, I have gathered the data collected by the general directorate of forestry of Turkey to see the trends over the years. Plus, the data is available to be used with other datasets as well.
+
+## Content
+
+fires.csv contains the number of forest fires along with the amount of burned areas from 1988 to 2020. 
+
+## Acknowledgements
+
+Thanks to https://www.ogm.gov.tr/tr to make the data visible to all users in order to analyze by downloading the contents.
+
